@@ -5,13 +5,13 @@ Rebuild of Foci's [SimplyEDH](https://steamcommunity.com/sharedfiles/filedetails
 1. Download the [SimplyEDH-Rebooted.json](https://github.com/BrusherTheHusky/SimplyEDH-Rebooted/blob/main/SimplyEDH-Rebooted.json) file
 2. Copy the file to one of the following folders:
       
-      Windows: C:\Users\\[Username]\Documents\My Games\Tabletop Simulator\Mods\
+      Windows: C:\Users\\[Username]\Documents\My Games\Tabletop Simulator\Mods\Workshop\
       
-      Mac: ~/Library/Tabletop Simulator/Mods/
+      Mac: ~/Library/Tabletop Simulator/Mods/Workshop/
       
-      Linux (native): ~/.local/share/Tabletop Simulator/Mods/
+      Linux (native): ~/.local/share/Tabletop Simulator/Mods/Workshop/
       
-      Linux (proton): ~/.local/share/Steam/steamapps/compatdata/286160/pfx/drive_c/users/steamuser/Documents/My Games/Tabletop Simulator/Mods/
+      Linux (proton): ~/.local/share/Steam/steamapps/compatdata/286160/pfx/drive_c/users/steamuser/Documents/My Games/Tabletop Simulator/Mods/Workshop/
 3. Restart Tabletop Simulator and Enjoy!
 
 ## Missing assets
